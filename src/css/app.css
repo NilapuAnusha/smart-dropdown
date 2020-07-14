@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+
+html , body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.app-container {
+  margin: 20px;
+}
+
+.app-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  padding: 0 10px;
+}
+
+button {
+	background: white;
+	color: black;
+	line-height: 20px;
+	width: 300px;
+  text-align: start;
+}
+
+
+
